@@ -2,10 +2,19 @@
   "posts": [
     {
       "id": 1,
-      "title": "hello"
+      "title": "Hello World!"
+    },
+    {
+      "id": 2,
+      "title": "This is a JSON file."
+    },
+    {
+      "id": 3,
+      "title": "My third entry"
     }
   ],
   "profile": {
     "name": "typicode"
   }
 }
+
